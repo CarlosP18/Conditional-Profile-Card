@@ -42,10 +42,10 @@ function render(variables = {}) {
           <h2>Web Developer</h2>
           <h3>Miami, USA</h3>
           <ul class="position-right">
-            <li><a targer="_blank" href="https://twitter.com/${variables.twitter}"><i class="fa fa-twitter"></i></a></li>
-            <li><a targer="_blank" href="https://github.com/${variables.github}"><i class="fa fa-github"></i></a></li>
-            <li><a targer="_blank" href="https://linkedin.com/in/${variables.linkedin}"><i class="fa fa-linkedin"></i></a></li>
-            <li><a targer="_blank" href="https://instagram.com/${variables.instagram}"><i class="fa fa-instagram"></i></a></li>
+            <li><a target="_blank" href="https://twitter.com/${variables.twitter}"><i class="fa fa-twitter"></i></a></li>
+            <li><a target="_blank" href="https://github.com/${variables.github}"><i class="fa fa-github"></i></a></li>
+            <li><a target="_blank" href="https://linkedin.com/in/${variables.linkedin}"><i class="fa fa-linkedin"></i></a></li>
+            <li><a target="_blank" href="https://instagram.com/${variables.instagram}"><i class="fa fa-instagram"></i></a></li>
           </ul>
         </div>
     `;
